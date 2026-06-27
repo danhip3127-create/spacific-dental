@@ -39,7 +39,7 @@ export const BLOGS_DATA: BlogItem[] = [
     enCategory: 'Implant',
     desc: 'Giải pháp tối ưu cho người mất răng toàn bộ hoặc mất nhiều răng, giúp phục hồi 99% chức năng nhai và đem lại thẩm mỹ tối đa như răng thật.',
         enDesc: 'The optimal solution for patients with complete or multiple tooth loss, restoring 99% of chewing function and providing maximum aesthetics like natural teeth.',
-    img: '/src/assets/images/srv_implant_1781368884121.jpg',
+    img: '/assets/images/srv_implant_1781368884121.jpg',
     date: '12/06/2026',
     author: {
       name: 'Dr. Le Danh',
@@ -61,7 +61,7 @@ export const BLOGS_DATA: BlogItem[] = [
           'All-on-6 (Thường ưu tiên cho hàm trên): Sử dụng 6 trụ Implant. Việc bổ sung 2 trụ ở vùng răng sau giúp dàn đều lực nhai tốt hơn. Hàm trên có cấu trúc xương xốp hơn hàm dưới, nên 6 trụ mang lại liên kết vững chãi bền lâu tuyệt đối.'
         ]
       },
-      { type: 'image', url: '/src/assets/images/digital_dent_cadcam_1781368299109.jpg', alt: 'Trụ implant titanium chất lượng cao' },
+      { type: 'image', url: '/assets/images/digital_dent_cadcam_1781368299109.jpg', alt: 'Trụ implant titanium chất lượng cao' },
       { type: 'heading', text: '3. Ưu điểm vượt trội của phục hình cố định toàn hàm' },
       { type: 'paragraph', text: 'So với hàm giả tháo lắp hay các giải pháp cổ truyền khác, Implant toàn hàm tại Pacific Dental mang lại mức độ hài lòng vô song:' },
       {
@@ -95,7 +95,7 @@ export const BLOGS_DATA: BlogItem[] = [
     enCategory: 'Orthodontics',
     desc: 'Khám phá công nghệ niềng răng vô hình chuẩn Mỹ từ tập đoàn Straumann, mang lại sự thoải mái tuyệt đối, bảo toàn nụ cười tự tin trong suốt quá trình niềng.',
         enDesc: 'Discover the American-standard invisible aligner technology from Straumann Group, bringing absolute comfort and preserving a confident smile throughout the treatment.',
-    img: '/src/assets/images/srv_clearcorrect_1781368900805.jpg',
+    img: '/assets/images/srv_clearcorrect_1781368900805.jpg',
     date: '08/06/2026',
     author: {
       name: 'Dr. Patrick Thien',
@@ -108,7 +108,7 @@ export const BLOGS_DATA: BlogItem[] = [
       { type: 'heading', text: '1. ClearCorrect là gì? Điểm khác biệt so với khay niềng thông thường' },
       { type: 'paragraph', text: 'ClearCorrect là hệ thống khay niềng trong suốt cao cấp được sản xuất và phát triển bởi tập đoàn Straumann (Thành lập năm 1954 tại Thụy Sỹ) - tập đoàn dẫn đầu thế giới trong lĩnh vực nha khoa thẩm mỹ và phục hình y khoa. Khay niềng ClearCorrect được chế tác cá nhân hóa hoàn toàn bằng chất liệu nhựa y tế đặc quyền polyurethane nhiều lớp ClearQuartz cực kỳ mỏng nhẹ.' },
       { type: 'paragraph', text: 'Sự khác biệt vượt trội của ClearCorrect chính là thiết kế đường viền cắt phẳng nướu (flat trimline), đi qua nướu răng 1.5mm. Nghiên cứu lâm sàng đã chỉ ra thiết kế này tạo ra lực ôm sát bám giữ chặt chẽ hơn gấp 2.5 lần so với khay niềng lượn sóng thông thường, giảm thiểu tối đa việc phải gắn quá nhiều nút đặt lực (attachments) lên răng.' },
-      { type: 'image', url: '/src/assets/images/srv_clearcorrect_1781368900805.jpg', alt: 'Khay niềng trong suốt chuẩn y khoa' },
+      { type: 'image', url: '/assets/images/srv_clearcorrect_1781368900805.jpg', alt: 'Khay niềng trong suốt chuẩn y khoa' },
       { type: 'heading', text: '2. Tại sao người bận rộn ưu tiên chọn ClearCorrect?' },
       { type: 'paragraph', text: 'ClearCorrect đang trở thành lựa chọn hàng đầu cho giới doanh nhân, nghệ sĩ, học sinh sinh viên nhờ những đặc điểm độc nhất:' },
       {
@@ -140,7 +140,7 @@ export const BLOGS_DATA: BlogItem[] = [
     enTitle: 'Cosmetic Porcelain Crowns: Should You Choose Veneers or Full Porcelain Crowns?',
     category: 'Răng sứ',
     desc: 'Phân tích chuyên sâu từ bác sĩ chuyên khoa thẩm mỹ giúp bộc lộ ưu nhược điểm từng phương pháp, giúp bạn chọn được phương án bảo tồn răng thật tối đa.',
-    img: '/src/assets/images/srv_rang_su_1781368915325.jpg',
+    img: '/assets/images/srv_rang_su_1781368915325.jpg',
     date: '03/06/2026',
     author: {
       name: 'Dr. Wendy Phuong Anh',
@@ -170,7 +170,7 @@ export const BLOGS_DATA: BlogItem[] = [
           'Độ tự nhiên quang học: Veneer siêu mỏng cho ánh sáng đi xuyên thấu qua ngà răng tự nhiên tạo độ trong mờ tự nhiên hoàn hảo nhất.'
         ]
       },
-      { type: 'image', url: '/src/assets/images/pds_doctors_team_1781368267797.jpg', alt: 'Khám kiểm nghiệm thẩm mỹ răng sứ chuyên nghiệp' },
+      { type: 'image', url: '/assets/images/pds_doctors_team_1781368267797.jpg', alt: 'Khám kiểm nghiệm thẩm mỹ răng sứ chuyên nghiệp' },
       { type: 'quote', text: 'Khuyến cáo chuyên môn từ Tiến sĩ. Bác sĩ Phương Anh: "Tại Pacific Dental, chúng tôi tôn vinh triết lý Can Thiệp Tối Thiểu - Hiệu Quả Tối Đa. 90% các ca phục hình nụ cười vùng thẩm mỹ đều được bác sĩ ưu tiên sử dụng dán sứ siêu mỏng Veneer thủy tinh IPS E.max cao cấp của Đức để bảo vệ màng sinh lý răng sống trọn đời."' },
       { type: 'heading', text: '3. Tuổi thọ của răng sứ và chế độ bảo hành chuẩn Thụy Sỹ' },
       { type: 'paragraph', text: 'Khi thực hiện tại Pacific Dental Services, tất cả các ca phục hình răng sứ đều được bảo vệ chu đáo bằng thẻ IDPI quốc tế điện tử truy xuất nguồn gốc rõ ràng, cam kết bảo hành chính hãng từ 10 năm đến trọn đời trọn vẹn.' }
@@ -184,7 +184,7 @@ export const BLOGS_DATA: BlogItem[] = [
     enCategory: 'Care',
     desc: 'Tìm hiểu mối tương quan trực hệ giữa viêm nha chu, vi khuẩn khoang miệng và nguy cơ tai biến mạch máu nội, tim mạch, tiểu đường theo các nghiên cứu khoa học mới nhất.',
     enDesc: 'Explore the direct correlation between periodontitis, oral bacteria, and the risk of stroke, cardiovascular disease, and diabetes according to the latest scientific research.',
-    img: '/src/assets/images/mouth_body_conn_1781368249551.jpg',
+    img: '/assets/images/mouth_body_conn_1781368249551.jpg',
     date: '28/05/2026',
     author: {
       name: 'Dr. Le Danh',
@@ -228,7 +228,7 @@ export const BLOGS_DATA: BlogItem[] = [
     enCategory: 'Whitening',
     desc: 'Giải thích chi tiết về nguyên lý tẩy trắng răng bằng công nghệ ánh sáng lạnh sinh học, cam kết phá vỡ chuỗi sắc tố men răng cứng đầu mà không bào mòn răng.',
     enDesc: 'Detailed explanation of the teeth whitening principles using biological cold light technology, breaking down stubborn enamel pigment chains without wearing down teeth.',
-    img: '/src/assets/images/srv_tay_trang_1781368928859.jpg',
+    img: '/assets/images/srv_tay_trang_1781368928859.jpg',
     date: '22/05/2026',
     author: {
       name: 'Dr. Wendy Phuong Anh',
@@ -243,7 +243,7 @@ export const BLOGS_DATA: BlogItem[] = [
       { type: 'paragraph', text: 'Nhiều người tìm tới phương pháp tự tẩy trắng tại nhà bằng bột than hoạt tính, baking soda hay các loại miếng dán trôi nổi trên mạng. Hậu quả là làm mài mòn men răng rỗ nát, gây viêm tủy răng mạn tính nghiêm trọng.' },
       { type: 'heading', text: '2. Công nghệ Tẩy trắng răng bằng ánh sáng lạnh sinh học tại Pacific Dental' },
       { type: 'paragraph', text: 'Phòng khám ứng dụng hệ thống tẩy trắng vượt bậc Zoom Laser / Cold Light chuẩn FDA Hoa Kỳ. Bản chất khoa học là sử dụng năng lượng ánh sáng kích hoạt thuốc tẩy trắng Hydrogen Peroxide bôi trên bề mặt răng. Ánh sáng lạnh xúc tác đẩy nhanh phản ứng phóng thích các gốc oxy hóa tự do thâm nhập trực tiếp cắt đứt chuỗi liên kết phân tử sắc tố trong ngà răng mà hoàn toàn không thay đổi cấu trúc cứng hữu cơ của răng.' },
-      { type: 'image', url: '/src/assets/images/srv_tay_trang_1781368928859.jpg', alt: 'Quá trình chiếu ánh sáng lạnh tẩy trắng' },
+      { type: 'image', url: '/assets/images/srv_tay_trang_1781368928859.jpg', alt: 'Quá trình chiếu ánh sáng lạnh tẩy trắng' },
       { type: 'heading', text: '3. 5 bước quy trình tẩy trắng răng an toàn tuyệt đối' },
       {
         type: 'list',
@@ -265,7 +265,7 @@ export const BLOGS_DATA: BlogItem[] = [
     category: 'Chăm sóc',
     enCategory: 'Care',
     desc: 'Hướng dẫn điều chỉnh xương khớp cắn từ sớm trong giai đoạn thay răng hỗn hợp (6 - 12 tuổi), mở đường cho cung răng đều đặn hoàn mỹ của trẻ trong tương lai.',
-    img: '/src/assets/images/family_dental_care_1781368283901.jpg',
+    img: '/assets/images/family_dental_care_1781368283901.jpg',
     date: '15/05/2026',
     author: {
       name: 'Dr. Patrick Thien',
@@ -278,7 +278,7 @@ export const BLOGS_DATA: BlogItem[] = [
       { type: 'heading', text: '1. Thời kỳ răng hỗn hợp (6 - 12 tuổi): Giai đoạn vàng bị lãng quên' },
       { type: 'paragraph', text: 'Nhiều bậc phụ huynh vẫn mang quan niệm lạc hậu rằng "phải đợi thay hết toàn bộ răng sữa sang răng vĩnh viễn (tức khoảng 12-14 tuổi) mới bắt đầu cho con đi niềng răng". Tuy nhiên, đây là sai lầm y khoa vô cùng đáng tiếc.' },
       { type: 'paragraph', text: 'Ở độ tuổi từ 6 đến 12 tuổi, các răng vĩnh viễn ở phía trước đang mọc xen kẽ răng sữa, trong khi xương hàm mặt của trẻ đang trong giai đoạn phát triển bùng nổ, có tính dẻo và phản ứng cực kỳ nhạy bén với các khí cụ nắn chỉnh hàm. Đây chính là khung thời gian vàng để thực hiện "Chỉnh nha tiền chỉnh nha" hay "Chỉnh nha tăng trưởng".' },
-      { type: 'image', url: '/src/assets/images/family_dental_care_1781368283901.jpg', alt: 'Trẻ em khám răng vui vẻ' },
+      { type: 'image', url: '/assets/images/family_dental_care_1781368283901.jpg', alt: 'Trẻ em khám răng vui vẻ' },
       { type: 'heading', text: '2. Tác dụng kỳ diệu của chỉnh nha tăng trưởng sớm' },
       { type: 'paragraph', text: 'Khi cho trẻ tầm soát và tác động can thiệp đúng lúc bằng khí cụ chuyên dụng (như khay Silicon Myobrace, EF, khí cụ nới rộng hàm Quad-helix), cha mẹ sẽ gặt hái những kết quả phi thường:' },
       {
@@ -300,7 +300,7 @@ export const BLOGS_DATA: BlogItem[] = [
     category: 'Chăm sóc',
     enCategory: 'Care',
     desc: 'Giải mã công nghệ nhổ răng thế hệ mới tại Pacific, sử dụng bước sóng siêu âm cao tần tác động tách dây chằng răng mà không làm tổn thương mô mềm xung quanh.',
-    img: '/src/assets/images/srv_nho_rang_khon_1781368962945.jpg',
+    img: '/assets/images/srv_nho_rang_khon_1781368962945.jpg',
     date: '10/05/2026',
     author: {
       name: 'Dr. Le Danh',
@@ -323,7 +323,7 @@ export const BLOGS_DATA: BlogItem[] = [
           'Thời gian diễn ra nhanh gấp 3 lần: Giao dịch lấy răng khôn ra khỏi nướu chỉ mất từ 5 đến 15 phút thay vì cả tiếng đồng hồ mệt mỏi như trước.'
         ]
       },
-      { type: 'image', url: '/src/assets/images/srv_nho_rang_khon_1781368962945.jpg', alt: 'Thiết bị y khoa siêu âm hiện đại' },
+      { type: 'image', url: '/assets/images/srv_nho_rang_khon_1781368962945.jpg', alt: 'Thiết bị y khoa siêu âm hiện đại' },
       { type: 'quote', text: 'Bác sĩ Lê Danh chia sẻ: "Đến với Pacific, bệnh nhân còn được kết hợp bơm rửa màng sinh học giàu tiểu cầu PRF lấy từ chính máu tự thân giúp lành vết thương chỉ sau 24-48 giờ. Hầu hết bệnh nhân đều có thể ăn cháo nhẹ và sinh hoạt làm việc bình thường ngay ngày hôm sau."' }
     ]
   },
@@ -335,7 +335,7 @@ export const BLOGS_DATA: BlogItem[] = [
     enCategory: 'Porcelain Teeth',
     desc: 'Tại sao cười hở lợi xảy ra và giải pháp điều chỉnh viền nướu bằng tia Laser nhẹ nhàng, không khâu, lành nhanh cho một nụ cười rạng rỡ đạt chuẩn tỷ lệ thẩm mỹ.',
     enDesc: 'Why a gummy smile occurs and the solution of adjusting the gum line with gentle Laser, no stitches, fast healing for a radiant smile meeting aesthetic proportions.',
-    img: '/src/assets/images/gummy_smile_laser_1781453160731.jpg',
+    img: '/assets/images/gummy_smile_laser_1781453160731.jpg',
     date: '02/05/2026',
     author: {
       name: 'Dr. Wendy Phuong Anh',
@@ -368,7 +368,7 @@ export const BLOGS_DATA: BlogItem[] = [
     category: 'Implant',
     enCategory: 'Implant',
     desc: 'Tại sao việc để trống ổ răng đã mất lâu ngày lại là nguyên nhân chính gây méo lệch cơ mặt, tiêu biến xương hàm và hủy hoại cơ quan hệ tiêu hóa nghiêm trọng.',
-    img: '/src/assets/images/tooth_loss_bone_resorption_1781453179122.jpg',
+    img: '/assets/images/tooth_loss_bone_resorption_1781453179122.jpg',
     date: '25/04/2026',
     author: {
       name: 'Dr. Le Danh',
@@ -391,7 +391,7 @@ export const BLOGS_DATA: BlogItem[] = [
           'Phát âm ngọng ngịu: Mất răng cửa làm thoát khí, suy giảm khả năng phát âm tiếng Việt lẫn các ngoại ngữ khác chuẩn xác.'
         ]
       },
-      { type: 'image', url: '/src/assets/images/tooth_loss_bone_resorption_1781453179122.jpg', alt: 'Cấu trúc xương hàm sọ nghiêng' }
+      { type: 'image', url: '/assets/images/tooth_loss_bone_resorption_1781453179122.jpg', alt: 'Cấu trúc xương hàm sọ nghiêng' }
     ]
   },
   {
@@ -401,7 +401,7 @@ export const BLOGS_DATA: BlogItem[] = [
     category: 'Chăm sóc',
     enCategory: 'Care',
     desc: 'Lột trần gốc rễ nguyên nhân gây ra mùi hôi khó chịu từ các túi nha chu viêm nhiễm và giải pháp làm sạch bằng khí dung quang học thế hệ mới.',
-    img: '/src/assets/images/srv_nha_chu_1781368947422.jpg',
+    img: '/assets/images/srv_nha_chu_1781368947422.jpg',
     date: '18/04/2026',
     author: {
       name: 'Dr. Wendy Phuong Anh',
@@ -433,7 +433,7 @@ export const BLOGS_DATA: BlogItem[] = [
     enTitle: 'Comparing ClearCorrect and Invisalign Clear Aligners: Which is the Optimal Choice?',
     category: 'Niềng răng',
     desc: 'Bản phân tích khoa học khách quan về chất liệu nhựa, công nghệ dịch chuyển răng và chi phí đầu tư chỉnh nha giữa hai tập đoàn y khoa lớn nhất Hoa Kỳ.',
-    img: '/src/assets/images/clear_aligners_setup_1781453208301.jpg',
+    img: '/assets/images/clear_aligners_setup_1781453208301.jpg',
     date: '12/04/2026',
     author: {
       name: 'Dr. Patrick Thien',
@@ -464,7 +464,7 @@ export const BLOGS_DATA: BlogItem[] = [
     category: 'Implant',
     enCategory: 'Implant',
     desc: 'Ưu điểm của Abutment liên kết cá nhân hóa (Customized Abutment) giúp ngăn ngừa ố nướu khít răng nhai và duy trì nét thanh tao bền lâu tuyệt đối.',
-    img: '/src/assets/images/implant_single_crown_1781453226051.jpg',
+    img: '/assets/images/implant_single_crown_1781453226051.jpg',
     date: '05/04/2026',
     author: {
       name: 'Dr. Le Danh',

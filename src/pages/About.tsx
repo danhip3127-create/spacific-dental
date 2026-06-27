@@ -175,7 +175,7 @@ export default function About() {
             <div className="bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-lg transition-all duration-300 border border-slate-100 flex flex-col group">
               <div className="relative overflow-hidden aspect-[4/3]">
                 <img 
-                  src="/src/assets/images/pds_hq_henderson_1781368440244.jpg" 
+                  src="/assets/images/pds_hq_henderson_1781368440244.jpg" 
                   alt="Trụ sở chính PDS Health" 
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" 
@@ -198,7 +198,7 @@ export default function About() {
             <div className="bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-lg transition-all duration-300 border border-slate-100 flex flex-col group">
               <div className="relative overflow-hidden aspect-[4/3]">
                 <img 
-                  src="/src/assets/images/pds_hq_irvine_1781368459705.jpg" 
+                  src="/assets/images/pds_hq_irvine_1781368459705.jpg" 
                   alt="Trụ sở Irvine California" 
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" 
@@ -221,7 +221,7 @@ export default function About() {
             <div className="bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-lg transition-all duration-300 border border-slate-100 flex flex-col group">
               <div className="relative overflow-hidden aspect-[4/3]">
                 <img 
-                  src="/src/assets/images/pds_ribbon_cutting_1781368478846.jpg" 
+                  src="/assets/images/pds_ribbon_cutting_1781368478846.jpg" 
                   alt="Lễ cắt băng khánh thành PDS Health" 
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" 
@@ -244,7 +244,7 @@ export default function About() {
             <div className="bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-lg transition-all duration-300 border border-slate-100 flex flex-col group">
               <div className="relative overflow-hidden aspect-[4/3]">
                 <img 
-                  src="/src/assets/images/pds_foundation_bus_1781368496338.jpg" 
+                  src="/assets/images/pds_foundation_bus_1781368496338.jpg" 
                   alt="Hoạt động cộng đồng PDS Foundation" 
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" 
@@ -267,7 +267,7 @@ export default function About() {
             <div className="bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-lg transition-all duration-300 border border-slate-100 flex flex-col group">
               <div className="relative overflow-hidden aspect-[4/3]">
                 <img 
-                  src="/src/assets/images/mouth_body_conn_1781368249551.jpg" 
+                  src="/assets/images/mouth_body_conn_1781368249551.jpg" 
                   alt="Mối liên hệ Mouth-Body Connection" 
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" 
@@ -290,7 +290,7 @@ export default function About() {
             <div className="bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-lg transition-all duration-300 border border-slate-100 flex flex-col group">
               <div className="relative overflow-hidden aspect-[4/3]">
                 <img 
-                  src="/src/assets/images/pds_doctors_team_1781368267797.jpg" 
+                  src="/assets/images/pds_doctors_team_1781368267797.jpg" 
                   alt="Đội ngũ bác sĩ và cộng sự" 
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" 
@@ -313,7 +313,7 @@ export default function About() {
             <div className="bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-lg transition-all duration-300 border border-slate-100 flex flex-col group">
               <div className="relative overflow-hidden aspect-[4/3]">
                 <img 
-                  src="/src/assets/images/family_dental_care_1781368283901.jpg" 
+                  src="/assets/images/family_dental_care_1781368283901.jpg" 
                   alt="Chăm sóc nha khoa gia đình" 
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" 
@@ -336,7 +336,7 @@ export default function About() {
             <div className="bg-white rounded-3xl overflow-hidden shadow-sm hover:shadow-lg transition-all duration-300 border border-slate-100 flex flex-col group">
               <div className="relative overflow-hidden aspect-[4/3]">
                 <img 
-                  src="/src/assets/images/digital_dent_cadcam_1781368299109.jpg" 
+                  src="/assets/images/digital_dent_cadcam_1781368299109.jpg" 
                   alt="Công nghệ CAD/CAM chẩn đoán" 
                   referrerPolicy="no-referrer"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" 

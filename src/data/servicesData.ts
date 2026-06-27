@@ -7,7 +7,7 @@ export const SERVICES_DATA = [
     enCategory: 'Restorative',
     price: '15.000.000đ',
     salePrice: '12.500.000đ',
-    image: '/src/assets/images/srv_implant_1781368884121.jpg',
+    image: '/assets/images/srv_implant_1781368884121.jpg',
     description: 'Trồng răng Implant là giải pháp hoàn hảo phục hồi lại chiếc răng đã mất. Phương pháp này sử dụng chân răng nhân tạo bằng Titanium cấy trực tiếp vào xương hàm, mang lại khả năng ăn nhai như răng thật và tính thẩm mỹ cao nhất.',
     enDescription: 'Dental Implants are the perfect solution to restore lost teeth. This method uses an artificial titanium root implanted directly into the jawbone, providing chewing ability like a real tooth and the highest aesthetics.',
     benefits: [
@@ -27,7 +27,7 @@ export const SERVICES_DATA = [
     enCategory: 'Orthodontics',
     price: '80.000.000đ',
     salePrice: '65.000.000đ',
-    image: '/src/assets/images/srv_clearcorrect_1781368900805.jpg',
+    image: '/assets/images/srv_clearcorrect_1781368900805.jpg',
     description: 'Niềng răng trong suốt ClearCorrect (Straumann - Thụy Sĩ) là giải pháp chỉnh nha hiện đại nhất. Với các khay niềng trong suốt ôm sát hàm răng, bạn có thể tự tin giao tiếp trong suốt quá trình điều trị mà không sợ bị lộ như mắc cài truyền thống.',
     enDescription: 'ClearCorrect clear aligners (Straumann - Switzerland) is the most modern orthodontic solution. With clear aligners tightly hugging your teeth, you can communicate confidently during treatment without being noticed like traditional braces.',
     benefits: [
@@ -47,7 +47,7 @@ export const SERVICES_DATA = [
     enCategory: 'Cosmetic',
     price: '6.000.000đ',
     salePrice: '4.500.000đ',
-    image: '/src/assets/images/srv_rang_su_1781368915325.jpg',
+    image: '/assets/images/srv_rang_su_1781368915325.jpg',
     description: 'Bọc răng sứ thẩm mỹ là phương pháp phục hình răng bằng cách sử dụng mão sứ chụp lên trên phần cùi răng thật. Phương pháp này giúp khắc phục triệt để các khuyết điểm như răng sứt mẻ, ố vàng, thưa, hô móm nhẹ, mang lại nụ cười rạng rỡ hoàn hảo.',
     enDescription: 'Cosmetic porcelain crowns are a tooth restoration method using porcelain crowns placed over the real tooth core. This method thoroughly overcomes defects such as chipped, yellowed, spaced, or slightly protruding teeth, bringing a perfectly radiant smile.',
     benefits: [
@@ -67,7 +67,7 @@ export const SERVICES_DATA = [
     enCategory: 'Cosmetic',
     price: '3.500.000đ',
     salePrice: '2.000.000đ',
-    image: '/src/assets/images/srv_tay_trang_1781368928859.jpg',
+    image: '/assets/images/srv_tay_trang_1781368928859.jpg',
     description: 'Tẩy trắng răng cấp tốc bằng công nghệ ánh sáng lạnh Laser là phương pháp an toàn và hiệu quả nhất hiện nay. Chỉ với 45-60 phút tại phòng khám, các mảng bám ố vàng sẽ bị đánh bay, trả lại cho bạn hàm răng trắng sáng tự nhiên bật 2-3 tông.',
     enDescription: 'Fast teeth whitening with cold laser light technology is the safest and most effective method today. With only 45-60 minutes at the clinic, yellow plaque will be blown away, returning to you a natural bright white smile 2-3 tones lighter.',
     benefits: [
@@ -87,7 +87,7 @@ export const SERVICES_DATA = [
     enCategory: 'Treatment',
     price: '2.000.000đ',
     salePrice: '1.500.000đ',
-    image: '/src/assets/images/srv_nha_chu_1781368947422.jpg',
+    image: '/assets/images/srv_nha_chu_1781368947422.jpg',
     description: 'Bệnh nha chu là nguyên nhân hàng đầu gây mất răng ở người trưởng thành. Gói điều trị nha chu chuyên sâu tại Pacific Dental giúp loại bỏ hoàn toàn vi khuẩn, cao răng dưới nướu, điều trị viêm nướu, viêm nha chu, giúp nướu săn chắc và bảo vệ răng khỏe mạnh.',
     enDescription: 'Periodontal disease is the leading cause of tooth loss in adults. The intensive periodontal treatment package at Pacific Dental helps completely remove bacteria, subgingival tartar, treats gingivitis and periodontitis, helps gums firm and protects healthy teeth.',
     benefits: [
@@ -107,7 +107,7 @@ export const SERVICES_DATA = [
     enCategory: 'Surgery',
     price: '3.000.000đ',
     salePrice: '1.800.000đ',
-    image: '/src/assets/images/srv_nho_rang_khon_1781368962945.jpg',
+    image: '/assets/images/srv_nho_rang_khon_1781368962945.jpg',
     description: 'Nhổ răng khôn (răng số 8) bằng công nghệ sóng siêu âm Piezotome là bước đột phá trong nha khoa. Máy Piezotome cắt đứt các dây chằng nha chu nhẹ nhàng mà không làm tổn thương mô mềm xung quanh, giúp quá trình nhổ răng diễn ra êm ái, mau lành thương.',
     enDescription: 'Wisdom tooth (8th tooth) extraction using Piezotome ultrasonic technology is a breakthrough in dentistry. The Piezotome machine gently cuts periodontal ligaments without damaging surrounding soft tissue, helping the extraction process to be smooth and heal quickly.',
     benefits: [
