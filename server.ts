@@ -11,6 +11,7 @@ async function startServer() {
 
   // Serve dental assets directly in both dev and prod environments
   app.use("/assets/images", express.static(path.join(process.cwd(), "public/assets/images")));
+  app.use("/assets/images", express.static(path.join(process.cwd(), "dist/assets/images")));
   app.use("/src/assets/images", express.static(path.join(process.cwd(), "src/assets/images")));
 
   // Define API Routes
@@ -134,9 +135,11 @@ Bạn đang quan tâm đến tình trạng răng miệng nào hoặc muốn đ�
 
   // Helper function to stream fallback responses
   async function handleStreamFallback(res: any, text: string) {
-    res.setHeader('Content-Type', 'text/event-stream');
-    res.setHeader('Cache-Control', 'no-cache');
-    res.setHeader('Connection', 'keep-alive');
+    if (!res.headersSent) {
+      res.setHeader('Content-Type', 'text/event-stream');
+      res.setHeader('Cache-Control', 'no-cache');
+      res.setHeader('Connection', 'keep-alive');
+    }
 
     const words = text.split(" ");
     let currentChunk = "";
@@ -240,7 +243,7 @@ Mục tiêu của bạn là:
     const distPath = path.join(process.cwd(), 'dist');
     app.use(express.static(distPath));
     // Fallback for SPA routing
-    app.get('*all', (req, res) => {
+    app.get('*', (req, res) => {
       res.sendFile(path.join(distPath, 'index.html'));
     });
   }

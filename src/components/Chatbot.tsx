@@ -73,9 +73,10 @@ export default function Chatbot() {
           // Keep the last part in buffer as it might be incomplete
           buffer = lines.pop() || "";
           
-          for (const line of lines) {
+          for (let line of lines) {
+            line = line.trim();
             if (line.startsWith("data: ")) {
-              const dataStr = line.substring(6);
+              const dataStr = line.substring(6).trim();
               if (dataStr === "[DONE]") {
                 setIsLoading(false);
                 return;
