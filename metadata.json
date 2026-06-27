@@ -1,0 +1,8 @@
+{
+  "name": "Pacific Dental Services",
+  "description": "Professional dental clinic website for Pacific Dental Services",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
